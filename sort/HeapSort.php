@@ -112,7 +112,7 @@ Array
     [9] => 22
 )
 */
-//打印堆数据
+//打印测试排序后的结果
 print_r(heapSort($test_data));
 /*
 (

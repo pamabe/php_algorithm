@@ -60,7 +60,7 @@ Array
     [9] => 46
 )
 */
-//打印堆数据
+//打印测试排序后的结果
 print_r(shellSort($test_data, $steps));
 /*
 Array
